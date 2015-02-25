@@ -1,0 +1,32 @@
+#contactgraphic {
+
+padding: 0px;
+border: 0px;
+margin: 0px;
+width: 100px;
+height: 200px;
+
+}
+
+#signature {
+
+
+
+
+font-family: "Arial";
+font-size: 16px;
+color: purple;
+padding: 4px;
+border: 1px solid purple;
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+line-height: 4px;
+
+
+float: right;
+
+
+}
+
