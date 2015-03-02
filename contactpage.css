@@ -16,16 +16,16 @@ height: 200px;
 font-family: "Arial";
 font-size: 16px;
 color: purple;
-padding: 4px;
+padding: 10px;
 border: 1px solid purple;
 margin-top: 20px;
-margin-right: 20px;
-margin-bottom: 20px;
-margin-left: 20px;
-line-height: 4px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+line-height: 25px;
 
 
-float: right;
+float: left;
 
 
 }
